@@ -6,6 +6,7 @@
   * @array: array to be sorted
   * @size: size of array
   */
+void sort_alg(int *arr, int left, int right, size_t size);
 void quick_sort(int *array, size_t size)
 {
 	if (array == NULL || size <= 1)
