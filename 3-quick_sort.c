@@ -1,6 +1,7 @@
 #include "sort.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 /**
   * quick_sort - quicksort algorithm
   * @array: array to be sorted
